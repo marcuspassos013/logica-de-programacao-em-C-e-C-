@@ -1,1 +1,1 @@
-# logica-de-programacao-em-C-e-C-
+# logica-de-programacao-em-C  e  C++
